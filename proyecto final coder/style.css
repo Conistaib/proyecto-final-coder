@@ -1,0 +1,53 @@
+body {
+    background-color: pink;
+}
+
+h1 {
+    color: deeppink;
+    text-align: center;
+    font-size: 60px;
+    text-decoration-line: underline;
+}
+
+p {
+    color: deeppink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.btn {
+    background-color: deeppink;
+    font-size: 15px;
+    color: white;
+    border: deeppink;
+}
+
+.dropdown-menu{
+    background-color: deeppink;
+    color: white;
+}
+
+.dropdown-item{
+    color: white;
+}
+
+.form-label{
+    color: deeppink;
+    text-align: center;
+}
+
+footer{
+    align-self: flex-end;
+    background-color: palevioletred;
+    line-height: 3;
+    text-align: center;
+    width: 100%;
+}
+
+h5{
+    color: pink;
+}
+
+div.card{
+    float: left;
+}
